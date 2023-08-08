@@ -82,7 +82,7 @@ const Search = () => {
 
       </div>
 
-      <span className="cursor-pointer bg-blue-500 text-white px-5 py-2 rounded-[10px] " >Clear All</span>
+      <span className="cursor-pointer bg-blue-500 text-white px-5 py-2 rounded-[10px] hover:bg-blue-300" >Clear All</span>
 
     </div>
     
